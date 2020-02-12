@@ -98,6 +98,7 @@ public class Hostel{
         Scanner sc = new Scanner(System.in);
         System.out.println("Hostel Management \n Enter the record of students! \n Type exit to end!");
         String name  = typeName();
+	System.out.print("Nikhil");
         
         while(!name.equals("exit")){
 
